@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Brash" targetName="Brash" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3ec0507-e6eb-4717-a9a1-beb2917aa59b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="ProjectId" id="1Tp4Jvfc2DKvwhgQIvHU90QjI8D" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hviss\CLionProjects\untitled1\" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Brash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Brash" TARGET_NAME="Brash" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Brash" RUN_TARGET_NAME="Brash">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3ec0507-e6eb-4717-a9a1-beb2917aa59b" name="Default Changelist" comment="" />
+      <created>1574143637716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574143637716</updated>
+      <workItem from="1574143647475" duration="9701000" />
+      <workItem from="1574179516577" duration="1199000" />
+      <workItem from="1574181746401" duration="1675000" />
+      <workItem from="1574185883988" duration="1401000" />
+      <workItem from="1574256465964" duration="1451000" />
+      <workItem from="1574264027966" duration="6580000" />
+      <workItem from="1574423911887" duration="6146000" />
+      <workItem from="1574430276854" duration="197000" />
+      <workItem from="1574430475764" duration="1789000" />
+      <workItem from="1574432321863" duration="221000" />
+      <workItem from="1574432590613" duration="143000" />
+      <workItem from="1574432754080" duration="774000" />
+      <workItem from="1574433540066" duration="428000" />
+      <workItem from="1574433969712" duration="6114000" />
+      <workItem from="1574441457567" duration="8801000" />
+      <workItem from="1574495025697" duration="185000" />
+      <workItem from="1574503341174" duration="1775000" />
+      <workItem from="1574505856012" duration="16859000" />
+      <workItem from="1574594226693" duration="12024000" />
+      <workItem from="1574684352418" duration="1196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
