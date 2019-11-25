@@ -1,0 +1,3 @@
+/Users/asmall/Desktop/Down/Brash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/asmall/Desktop/Down/Brash/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/asmall/Desktop/Down/Brash/cmake-build-debug/CMakeFiles/Brash.dir

@@ -1,0 +1,178 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D4106634238C11CA00D21F80 /* _README_ */ = {isa = PBXFileReference; lastKnownFileType = text; path = _README_; sourceTree = "<group>"; };
+		D4106635238C11CA00D21F80 /* font.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = font.c; sourceTree = "<group>"; };
+		D4106636238C11CA00D21F80 /* font.xcf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font.xcf; sourceTree = "<group>"; };
+		D4106637238C11CA00D21F80 /* libmlx.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libmlx.a; sourceTree = "<group>"; };
+		D4106638238C11CA00D21F80 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		D4106639238C11CA00D21F80 /* man */ = {isa = PBXFileReference; lastKnownFileType = folder; path = man; sourceTree = "<group>"; };
+		D410663A238C11CA00D21F80 /* mlx.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mlx.h; sourceTree = "<group>"; };
+		D410663B238C11CA00D21F80 /* mlx_init_loop.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mlx_init_loop.m; sourceTree = "<group>"; };
+		D410663C238C11CA00D21F80 /* mlx_init_loop.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = mlx_init_loop.o; sourceTree = "<group>"; };
+		D410663D238C11CA00D21F80 /* mlx_int.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mlx_int.h; sourceTree = "<group>"; };
+		D410663E238C11CA00D21F80 /* mlx_int_str_to_wordtab.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = mlx_int_str_to_wordtab.c; sourceTree = "<group>"; };
+		D410663F238C11CA00D21F80 /* mlx_int_str_to_wordtab.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = mlx_int_str_to_wordtab.o; sourceTree = "<group>"; };
+		D4106640238C11CA00D21F80 /* mlx_new_image.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mlx_new_image.m; sourceTree = "<group>"; };
+		D4106641238C11CA00D21F80 /* mlx_new_image.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = mlx_new_image.o; sourceTree = "<group>"; };
+		D4106642238C11CA00D21F80 /* mlx_new_window.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mlx_new_window.h; sourceTree = "<group>"; };
+		D4106643238C11CA00D21F80 /* mlx_new_window.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mlx_new_window.m; sourceTree = "<group>"; };
+		D4106644238C11CA00D21F80 /* mlx_new_window.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = mlx_new_window.o; sourceTree = "<group>"; };
+		D4106645238C11CA00D21F80 /* mlx_rgb.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = mlx_rgb.c; sourceTree = "<group>"; };
+		D4106646238C11CA00D21F80 /* mlx_shaders.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = mlx_shaders.c; sourceTree = "<group>"; };
+		D4106647238C11CA00D21F80 /* mlx_shaders.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = mlx_shaders.o; sourceTree = "<group>"; };
+		D4106648238C11CA00D21F80 /* mlx_xpm.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = mlx_xpm.c; sourceTree = "<group>"; };
+		D4106649238C11CA00D21F80 /* mlx_xpm.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = mlx_xpm.o; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D410662E238C11CA00D21F80 = {
+			isa = PBXGroup;
+			children = (
+				D4106634238C11CA00D21F80 /* _README_ */,
+				D4106635238C11CA00D21F80 /* font.c */,
+				D4106636238C11CA00D21F80 /* font.xcf */,
+				D4106637238C11CA00D21F80 /* libmlx.a */,
+				D4106638238C11CA00D21F80 /* Makefile */,
+				D4106639238C11CA00D21F80 /* man */,
+				D410663A238C11CA00D21F80 /* mlx.h */,
+				D410663B238C11CA00D21F80 /* mlx_init_loop.m */,
+				D410663C238C11CA00D21F80 /* mlx_init_loop.o */,
+				D410663D238C11CA00D21F80 /* mlx_int.h */,
+				D410663E238C11CA00D21F80 /* mlx_int_str_to_wordtab.c */,
+				D410663F238C11CA00D21F80 /* mlx_int_str_to_wordtab.o */,
+				D4106640238C11CA00D21F80 /* mlx_new_image.m */,
+				D4106641238C11CA00D21F80 /* mlx_new_image.o */,
+				D4106642238C11CA00D21F80 /* mlx_new_window.h */,
+				D4106643238C11CA00D21F80 /* mlx_new_window.m */,
+				D4106644238C11CA00D21F80 /* mlx_new_window.o */,
+				D4106645238C11CA00D21F80 /* mlx_rgb.c */,
+				D4106646238C11CA00D21F80 /* mlx_shaders.c */,
+				D4106647238C11CA00D21F80 /* mlx_shaders.o */,
+				D4106648238C11CA00D21F80 /* mlx_xpm.c */,
+				D4106649238C11CA00D21F80 /* mlx_xpm.o */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		D4106633238C11CA00D21F80 /* minilibx_macos */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = D410664A238C11CA00D21F80 /* Build configuration list for PBXLegacyTarget "minilibx_macos" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/asmall/Desktop/Down/Brash/minilibx_macos;
+			dependencies = (
+			);
+			name = minilibx_macos;
+			passBuildSettingsInEnvironment = 1;
+			productName = minilibx_macos;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		D410662F238C11CA00D21F80 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = D4106632238C11CA00D21F80 /* Build configuration list for PBXProject "minilibx_macos" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D410662E238C11CA00D21F80;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D4106633238C11CA00D21F80 /* minilibx_macos */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D4106630238C11CA00D21F80 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		D4106631238C11CA00D21F80 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		D410664B238C11CA00D21F80 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = minilibx_macos;
+			};
+			name = Debug;
+		};
+		D410664C238C11CA00D21F80 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = minilibx_macos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D4106632238C11CA00D21F80 /* Build configuration list for PBXProject "minilibx_macos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4106630238C11CA00D21F80 /* Debug */,
+				D4106631238C11CA00D21F80 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D410664A238C11CA00D21F80 /* Build configuration list for PBXLegacyTarget "minilibx_macos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D410664B238C11CA00D21F80 /* Debug */,
+				D410664C238C11CA00D21F80 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D410662F238C11CA00D21F80 /* Project object */;
+}

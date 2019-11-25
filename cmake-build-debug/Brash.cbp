@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Brash"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/asmall/Desktop/Down/Brash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/asmall/Desktop/Down/Brash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/asmall/Desktop/Down/Brash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Brash">
+				<Option output="/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Brash" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/asmall/Desktop/Down/Brash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/asmall/Desktop/Down/Brash/."/>
+					<Add directory="/Users/asmall/Desktop/Down/Brash/libft"/>
+					<Add directory="/Users/asmall/Desktop/Down/Brash/./includes/minilibx_macos"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 Brash"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Brash/fast">
+				<Option output="/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Brash" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/asmall/Desktop/Down/Brash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/asmall/Desktop/Down/Brash/."/>
+					<Add directory="/Users/asmall/Desktop/Down/Brash/libft"/>
+					<Add directory="/Users/asmall/Desktop/Down/Brash/./includes/minilibx_macos"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 Brash/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asmall/Desktop/Down/Brash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/color.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/control.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/draw.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/fdf.h">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/fdf_mouse.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/init_struct.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_atoi.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_atoi_base.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_bzero.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_clear_mass.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_clear_swap.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_double_strlen.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_isalnum.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_isalpha.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_isascii.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_isdigit.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_isprint.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_isspace.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_itoa.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstadd.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstappend.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstappend_new.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstcount.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstdel.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstdelone.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstfree.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstiter.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstmap.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstnew.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_lstrev.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memalloc.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memccpy.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memchr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memcmp.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memcpy.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memdel.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memmove.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_memset.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_nbrlen.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putchar.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putchar_fd.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putendl.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putendl_fd.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putnbr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putnbr_fd.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putstr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_putstr_fd.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strcat.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strchr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strclr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strcmp.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strcpy.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strdel.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strdup.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strequ.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_striter.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_striteri.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strjoin.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strlcat.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strlen.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strmap.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strmapi.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strncat.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strncmp.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strncpy.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strnequ.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strnew.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strnstr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strrchr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strsplit.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strstr.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strsub.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_strtrim.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_tolower.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_toupper.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_wordcount.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/ft_wordlen.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/get_next_line.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/libft/libft.h">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/main.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/projection.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/read_map.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/utils.c">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/utils.h">
+			<Option target="Brash"/>
+		</Unit>
+		<Unit filename="/Users/asmall/Desktop/Down/Brash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

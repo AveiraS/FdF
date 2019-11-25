@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/asmall/Desktop/Down/Brash/./libft/libft.h
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+
+/Users/asmall/Desktop/Down/Brash/./minilibx_macos/mlx.h
+
+/Users/asmall/Desktop/Down/Brash/control.c
+fdf.h
+/Users/asmall/Desktop/Down/Brash/fdf.h
+utils.h
+/Users/asmall/Desktop/Down/Brash/utils.h
+
+/Users/asmall/Desktop/Down/Brash/fdf.h
+./minilibx_macos/mlx.h
+/Users/asmall/Desktop/Down/Brash/./minilibx_macos/mlx.h
+./libft/libft.h
+/Users/asmall/Desktop/Down/Brash/./libft/libft.h
+math.h
+/Users/asmall/Desktop/Down/Brash/math.h
+errno.h
+-
+
+/Users/asmall/Desktop/Down/Brash/utils.h
+
